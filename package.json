@@ -1,0 +1,19 @@
+{
+  "name": "cooks-anomaly-detection-streaming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CooksDistance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshit-shah/cooks-anomaly-detection-streaming.git"
+  },
+  "author": "darshit@byteprophecy.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darshit-shah/cooks-anomaly-detection-streaming/issues"
+  },
+  "homepage": "https://github.com/darshit-shah/cooks-anomaly-detection-streaming#readme"
+}
